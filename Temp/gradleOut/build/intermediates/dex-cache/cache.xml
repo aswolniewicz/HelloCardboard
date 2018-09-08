@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\annas\OneDrive\Unity\Projects\HelloCardboard\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b375a689c4555d10c4706d2110f5c9913a6c4a59">
+        <dex dex="C:\Users\annas\OneDrive\Unity\Projects\HelloCardboard\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_f9b13e345be94ebe7e14ded7106326e20dd41e31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\annas\OneDrive\Unity\Projects\HelloCardboard\Temp\gradleOut\libs\libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="C:\Users\annas\OneDrive\Unity\Projects\HelloCardboard\Temp\gradleOut\build\intermediates\pre-dexed\release\libprotobuf-java-nano_34d35c4d341b31aad1c6aad3587a11c0a50f3b93.jar" />
+    </item>
+
+</items>
